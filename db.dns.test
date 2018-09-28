@@ -1,0 +1,42 @@
+; Zone-file for domain "dns.test"
+$TTL 86400
+@ IN SOA dummy hostmaster 2018092814 604800 86400 2419200 86400
+@ IN NS dummy
+dummy IN A 127.0.0.1
+irreducibleness-41201.ambosexual IN TXT "malurus impuissant campaigner"
+uncollapsed-65535.culverkey.affectationist.acquisitum IN NS proreform-15859.knitwear.boringness
+proreform-15859.knitwear.boringness IN A 232.122.180.98
+repulsiveness-16588 IN A 91.71.225.243
+uncoroneted-2100 IN A 82.244.54.195
+xyloidin-61404.sacroinguinal.mahalla.distinguishable IN MX 129 phosphoroscope-51651.brideweed.circumanal
+phosphoroscope-51651.brideweed.circumanal IN AAAA 5c87:9c1b:bb30:5eb2:bed4:84d3:e2c9:6c0a
+semiautonomous-32166.coharmonious.cofather IN SRV 58 112 6945 hillocky-39604.intervertebra.astrier
+hillocky-39604.intervertebra.astrier IN A 23.26.85.107
+orthodontic-23067 IN TXT "ryania"
+splinterd-2486.bipupillate IN TXT "frolicsome cebur unexplainedly riding hygienal unalike fluotantalic pelidnota prefinancial prosingly"
+pseudotetramerous-53617 IN NS staverwort-21223
+staverwort-21223 IN AAAA 5d22:bc6e:216:56e6:32a5:14ed:8402:f92d
+awalt-59325 IN AAAA 395:63a8:77d:2722:a3ea:d60:4388:602b
+preremuneration-26159 IN SRV 55 130 8263 overfertility-34949.procural.archiepiscopacy.demagnetizable
+overfertility-34949.procural.archiepiscopacy.demagnetizable IN A 176.233.142.45
+raucity-53858.issuance.granulater.bananaland IN TXT "ambassadeur triodontoidei remeant whiteback habronema amyrol therm flowerlike palatineship boxberry"
+semilanceolate-59678.behold IN A 171.87.33.55
+resorcinum-35215.unbreathing.pamphletic.defenselessly.heterocercality IN TXT "skance batholitic bareheaded germinance cate catheterization postauditory continuando"
+unworthiness-30034.unweariably.enterritoriality.aecidiomycetes.frankenia IN MX 49 retroinfection-7103.kilampere.biarticulated
+retroinfection-7103.kilampere.biarticulated IN AAAA e4eb:67e1:170e:11ce:d0c1:7f4a:a129:f307
+yestermorn-56327 IN TXT "sentient thesean sheeplet averted overcontribution parlay taupou patriotically centrarchid coilsmith"
+sylph-32054.earthling IN TXT "turkeyism fleshlily buccinator cornbin gneiss"
+homoeomorphic-45915.terephthalate.composture.ephetae IN CNAME amphidesmous-60788
+amphidesmous-60788 IN A 151.209.52.46
+@ IN NS squirtish-44229.curviform.beltene
+squirtish-44229.curviform.beltene IN AAAA 185e:dcc3:735a:13b0:19ef:89b8:50:2920
+nonstarter-8259.laical.jalapa.bumpology IN NS tunga-15205.befile.tracer.beckie.condylarthrous
+tunga-15205.befile.tracer.beckie.condylarthrous IN A 30.195.26.105
+tongkang-52893.angiocarditis IN MX 251 uncledom-46654.fretfully.diaskeuast
+uncledom-46654.fretfully.diaskeuast IN AAAA 311f:66ef:2c3c:f095:6bb3:a60d:2e7b:ec53
+saltatorial-31725.sleck.mataco.glossoplegia IN NS pinhold-17804.azine.pachydermial.isothermobathic.interhemal
+pinhold-17804.azine.pachydermial.isothermobathic.interhemal IN A 77.1.135.115
+wrathiness-23206.passymeasure.dosimetrist.donum IN CNAME sob-24453.triticalness.photoradiogram.luxuriousness.cook
+sob-24453.triticalness.photoradiogram.luxuriousness.cook IN A 148.5.190.113
+unclimbable-39836.perspire.epiplankton IN A 252.51.130.248
+thiocarbamyl-47334.mariengroschen.anacatadidymus IN AAAA 5f02:c4f5:c511:8c04:1ee2:91d0:712d:cb95
